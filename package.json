@@ -1,0 +1,19 @@
+{
+  "name": "nodetesting",
+  "version": "1.0.0",
+  "description": "Sample node project",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeTitan-la/NodeTesting.git"
+  },
+  "author": "Logan Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeTitan-la/NodeTesting/issues"
+  },
+  "homepage": "https://github.com/CodeTitan-la/NodeTesting#readme"
+}
