@@ -30,13 +30,12 @@
 
 const dataFile = require("./data.js");
 const sumOfArray = require("./sum.js");
+
+
 console.log(sumOfArray(dataFile.numbers));
-
-
 console.log(dataFile.numbers)
 console.log(dataFile.string, dataFile.homeTown);
 
 
 const lodash = require("lodash"); // Called lodash because it's a new package added
-
 console.log(lodash.shuffle(dataFile.numbers)); //Logged lodash as the package and grabbed the shuffle method it has then passed my array of numbers to shuffle.
